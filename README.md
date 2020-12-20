@@ -10,6 +10,11 @@ adjust the overall view of the page.
 
 The page's css was modified to be more streamlined & readable to other developers; several compatible blocks that were spaced out & unorganized were compressed, restructured & properly organized to reflect the structrue of the html & the page as a whole. 
 
+
+## Links
+github repository: 
+site url: 
+
 ## Contributors
 
 -Zakk Ryan Haug <zakklikeslamps@gmail.com>

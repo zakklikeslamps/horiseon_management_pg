@@ -140,14 +140,3 @@ p {
     font-size: 20px;
 }
 
-/*Added "Back to Top" button for funsies*/
- #button {
-     color: whitesmoke;
-     background-color: blue;
-     text-align: center;
-     border-radius: 10px; 
-     display: inline-block;
-     padding: 10px 10px;
-     margin: 10px 10px; 
-     font-size: 50px;
-}
